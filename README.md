@@ -1,2 +1,5 @@
-# Neighborhood-Approaches-and-DBSCAN
-This course teaches you how to implement DBSCAN from scratch, describes the various DBSCAN attributes and helps you to evaluate the impact of neighborhood size. This course will help you identify the best suited algorithm from K-Means, hierarchical clustering, and DBSCAN to solve your problem. 
+# Neighborhood Approaches and DBSCAN
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Neighborhood-Approaches-and-DBSCAN.svg)](https://github.com/Develop-Packt/Neighborhood-Approaches-and-DBSCAN/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Neighborhood-Approaches-and-DBSCAN.svg)](https://github.com/Develop-Packt/Neighborhood-Approaches-and-DBSCAN/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Neighborhood-Approaches-and-DBSCAN.svg)](https://github.com/Develop-Packt/Neighborhood-Approaches-and-DBSCAN/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Neighborhood-Approaches-and-DBSCAN/pulls)
